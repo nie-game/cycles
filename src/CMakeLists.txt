@@ -463,7 +463,6 @@ if(WITH_CYCLES_BLENDER)
   add_subdirectory(blender)
 endif()
 
-add_subdirectory(app)
 add_subdirectory(bvh)
 add_subdirectory(device)
 add_subdirectory(doc)
